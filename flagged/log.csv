@@ -1,0 +1,2 @@
+Upload Image,Confidence threshold,IoU threshold,Result,flag,username,timestamp
+"{""path"":""flagged\\Upload Image\\53a88116b8ef5dcbea87\\1a4556e2-wb_20x_9.jpg"",""url"":""http://192.168.1.120:9000/file=C:\\Users\\JY\\AppData\\Local\\Temp\\gradio\\a77316f2746d2b0ec3ddb956282538c27811ed60\\1a4556e2-wb_20x_9.jpg"",""size"":null,""orig_name"":""1a4556e2-wb_20x_9.jpg"",""mime_type"":null}",0.25,0.45,"{""path"":""flagged\\Result\\33cbaafad4fc86a98d5a\\image.png"",""url"":null,""size"":null,""orig_name"":""image.png"",""mime_type"":null}",,,2024-02-03 09:48:58.386194
